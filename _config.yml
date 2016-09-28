@@ -1,6 +1,6 @@
 # Site settings
 title: "Ju Liu"
-description: "Senior Software Engineer"
+description: "Experienced Software Engineer"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ju Liu"
-resume_title:                   "Senior Software Engineer"
+resume_title:                   "Experienced Software Engineer"
 resume_contact_email:           "liuju86@gmail.com"
 
 # use "yes" to display the email contact button,
